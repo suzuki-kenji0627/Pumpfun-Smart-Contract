@@ -8,7 +8,4 @@ It's for offering basic understanding about pumpfun on evm.
 
 ### If you face difficulty or issues when you use it, feel free to reach out
 
-### Contact Information
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/devcutup
+
